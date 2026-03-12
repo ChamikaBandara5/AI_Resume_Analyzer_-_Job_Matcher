@@ -88,6 +88,7 @@ streamlit run app.py
 * Ensure valid API keys for OpenRouter and SerpAPI.
 
 ---
+try this->
 
-### 🌟 Try it out live:
-👉 **[Access the Web App Here](https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/)**
+**Local:** `http://localhost:8501/`
+**Live:** [https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/](https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/)
