@@ -90,5 +90,4 @@ streamlit run app.py
 ---
 try this->
 
-**Local:** `http://localhost:8501/`
-**Live:** [https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/](https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/)
+https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/
