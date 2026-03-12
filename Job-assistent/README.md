@@ -2,6 +2,8 @@
 
 # AI Job Application Assistant
 
+🚀 **Live Demo:** [Try the AI Resume Analyzer & Job Matcher Here](https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/)
+
 A web application built with Streamlit that helps users optimize job applications. Users can upload their CV, provide a job description or URL, and get AI-powered analysis including ATS score, skill gap detection, CV improvement suggestions, and a tailored cover letter in PDF. Optionally, it can search LinkedIn for matching job postings using SerpAPI.
 
 ---
@@ -86,7 +88,6 @@ streamlit run app.py
 * Ensure valid API keys for OpenRouter and SerpAPI.
 
 ---
-try this->
 
-https://jobassistent.streamlit.app/
-
+### 🌟 Try it out live:
+👉 **[Access the Web App Here](https://airesumeanalyzer-jobmatcher-knawbjh9lpjxouwosmi3dj.streamlit.app/)**
