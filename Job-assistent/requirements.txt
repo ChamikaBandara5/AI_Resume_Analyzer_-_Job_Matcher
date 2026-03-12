@@ -1,0 +1,8 @@
+streamlit==1.39.0
+requests==2.32.3
+python-docx==1.1.2
+PyPDF2==3.0.1
+fpdf2==2.8.1
+beautifulsoup4==4.12.3
+
+
